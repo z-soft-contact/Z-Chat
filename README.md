@@ -21,16 +21,16 @@ Repository này được sử dụng để:
 
 | Hệ điều hành | Link tải |
 |-------------|-----------|
-| 🪟 Windows   | [Z-Chat-Installer.exe](https://github.com/yourusername/z-chat/releases/latest/download/Z-Chat-Installer.exe) |
+| 🪟 Windows   | [Z-Chat-Installer.exe](https://github.com/z-soft-contact/z-chat/releases/latest/download/Z-Chat-Installer.exe) |
 | 🐧 Linux     | (Coming soon) |
 
-> **Lưu ý**: Bạn có thể xem tất cả các phiên bản tại [Releases](https://github.com/yourusername/z-chat/releases)
+> **Lưu ý**: Bạn có thể xem tất cả các phiên bản tại [Releases](https://github.com/z-soft-contact/z-chat/releases)
 
 ---
 
 ## 🐞 Gặp lỗi? Hãy báo cho chúng tôi
 
-1. Truy cập tab **[Issues](https://github.com/yourusername/z-chat/issues)**
+1. Truy cập tab **[Issues](https://github.com/z-soft-contact/z-chat/issues)**
 2. Bấm **New Issue**
 3. Mô tả lỗi bạn gặp phải, kèm theo ảnh chụp màn hình (nếu có)
 
