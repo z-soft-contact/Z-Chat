@@ -6,44 +6,55 @@
 
 ---
 
-**Z-Chat** là ứng dụng trò chuyện dành cho doanh nghiệp vừa và nhỏ, được phát triển bởi Z-Soft.
-Z-Chat có tính năng mã hoá tin nhắn trên từng thiết bị của người dùng nhằm tăng tính bảo mật.
-Chỉ có chính chủ tài khoản mới có thể xem được tin nhắn đã mã hoá trên chính thiết bị đã cài đặt mã hoá bằng khoá.
+💬 **Z-Chat** là ứng dụng trò chuyện dành cho doanh nghiệp vừa và nhỏ, được phát triển bởi **Công ty TNHH Z-Soft**,  
+dựa trên nền tảng mã nguồn mở 🔓 **Matrix (Synapse)** và ứng dụng chat 💠 **FluffyChat**.
+
+🛡 Z-Chat hỗ trợ **mã hoá đầu cuối trên từng thiết bị**, đảm bảo rằng **chỉ chính người dùng mới có thể đọc được tin nhắn** đã mã hoá trên thiết bị của mình.  
+📁 Ứng dụng còn cho phép lưu trữ nội bộ, giúp doanh nghiệp kiểm soát hoàn toàn dữ liệu mà **không lo bị rò rỉ ra ngoài**.
+
+🚀 Z-Chat là giải pháp phù hợp cho:
+- Trò chuyện nội bộ nhóm hoặc toàn công ty
+- Chia sẻ tài liệu nội bộ
+- Thiết lập hệ thống trò chuyện riêng cho từng doanh nghiệp
 
 ---
-Repository này được sử dụng để:
-- 🔽 Cung cấp file cài đặt cho người dùng Windows, Linux
-- 🐞 Ghi nhận và theo dõi các lỗi (issues) từ cộng đồng người dùng
+
+## 📂 Về Repository này
+
+📌 Mục đích chính:
+- 🔽 Cung cấp **file cài đặt** cho người dùng Windows & Linux
+- 🐞 Cho phép người dùng **báo lỗi (report issues)** khi gặp sự cố
 
 ---
 
 ## 📦 Tải về
 
-| Hệ điều hành | Link tải |
-|-------------|-----------|
-| 🪟 Windows   | [Z-Chat-Installer.exe](https://github.com/z-soft-contact/z-chat/releases/latest/download/Z-Chat-Installer.exe) |
-| 🐧 Linux     | (Coming soon) |
+| 🖥 Hệ điều hành | 🔗 Link tải |
+|----------------|-------------|
+| 🪟 **Windows**  | [Z-Chat-Installer.exe](https://github.com/z-soft-contact/z-chat/releases/latest/download/Z-Chat-Installer.exe) |
+| 🐧 **Linux**    | (Coming soon) |
 
-> **Lưu ý**: Bạn có thể xem tất cả các phiên bản tại [Releases](https://github.com/z-soft-contact/z-chat/releases)
+> 🔔 **Lưu ý**: Bạn có thể xem tất cả các phiên bản tại [Releases](https://github.com/z-soft-contact/z-chat/releases)
 
 ---
 
 ## 🐞 Gặp lỗi? Hãy báo cho chúng tôi
 
-1. Truy cập tab **[Issues](https://github.com/z-soft-contact/z-chat/issues)**
+1. Vào tab **[Issues](https://github.com/z-soft-contact/z-chat/issues)**
 2. Bấm **New Issue**
-3. Mô tả lỗi bạn gặp phải, kèm theo ảnh chụp màn hình (nếu có)
+3. Mô tả lỗi 🧩 + ảnh chụp màn hình (nếu có)
 
-Chúng tôi sẽ kiểm tra và phản hồi sớm nhất có thể.
+✉️ Chúng tôi sẽ kiểm tra và phản hồi sớm nhất có thể.
 
 ---
 
 ## 📬 Liên hệ
 
-- Website: [https://z-soft.com.vn](https://z-soft.com.vn)
-- Email hỗ trợ: contact@z-soft.com.vn
+- 📧 Email hỗ trợ: [support@z-cloud.com.vn](mailto:support@z-cloud.com.vn)  
+- 🌐 Website: [https://z-soft.com.vn](https://z-soft.com.vn) / [https://z-cloud.com.vn](https://z-cloud.com.vn)
 
 ---
 
-Cảm ơn bạn đã sử dụng Z-Chat! ❤️  
-Hãy ⭐ star repo này nếu bạn thấy hữu ích.
+🙏 **Cảm ơn bạn đã sử dụng Z-Chat!**  
+⭐ Nếu thấy hữu ích, hãy "Star" repo này để ủng hộ chúng tôi!
+
