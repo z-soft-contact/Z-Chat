@@ -30,7 +30,7 @@
 
 | 🖥 Hệ điều hành | 🔗 Link tải |
 |----------------|-------------|
-| 🪟 **Windows**  | [Z-Chat-Installer.exe](https://github.com/z-soft-contact/z-chat/releases/latest/download/Z-Chat-Installer.exe) |
+| 🪟 **Windows**  | [Z-Chat-Setup.exe](https://github.com/z-soft-contact/z-chat/releases/latest/download/Z-Chat-Setup.exe) |
 | 🐧 **Linux**    | (Coming soon) |
 
 > 🔔 **Lưu ý**: Bạn có thể xem tất cả các phiên bản tại [Releases](https://github.com/z-soft-contact/z-chat/releases)
