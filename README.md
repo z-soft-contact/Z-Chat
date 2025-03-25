@@ -6,8 +6,7 @@
 
 ---
 
-💬 **Z-Chat** là ứng dụng trò chuyện dành cho doanh nghiệp vừa và nhỏ, được phát triển bởi **Công ty TNHH Z-Soft**,  
-dựa trên nền tảng mã nguồn mở 🔓 **Matrix (Synapse)** và ứng dụng chat 💠 **FluffyChat**.
+💬 **Z-Chat** là ứng dụng trò chuyện dành cho doanh nghiệp vừa và nhỏ, được phát triển bởi **Z-Soft Co., Ltd.**, dựa trên nền tảng mã nguồn mở 🔓 **Matrix** 
 
 🛡 Z-Chat hỗ trợ **mã hoá đầu cuối trên từng thiết bị**, đảm bảo rằng **chỉ chính người dùng mới có thể đọc được tin nhắn** đã mã hoá trên thiết bị của mình.  
 📁 Ứng dụng còn cho phép lưu trữ nội bộ, giúp doanh nghiệp kiểm soát hoàn toàn dữ liệu mà **không lo bị rò rỉ ra ngoài**.
